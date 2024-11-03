@@ -129,19 +129,19 @@ const NavyLabeling415471framerap: FunctionComponent = () => {
                       <div className="h-4 flex flex-col items-start justify-end pt-0 px-0 pb-0 box-border">
                         <a
                           className="mt-[-1px] relative leading-[16px] font-semibold text-[inherit] inline-block [text-decoration:none]"
-                          href="https://navy-labeling-415471.framer.app/products/:Zp4nun4Qc"
+                          href="https://bruchsal.growing-brands.de"
                           target="_blank"
                         >
-                          Menschen.Buchen.Fotografen
+                          Growing Brands Bruchsal
                         </a>
                       </div>
                     </div>
                     <a
                       className="relative leading-[20px] text-navy-labeling-415471-framer-app-2002x1208-default-rolling-stone [text-decoration:none]"
-                      href="https://navy-labeling-415471.framer.app/products/:Zp4nun4Qc"
+                      href="https://bruchsal.growing-brands.de"
                       target="_blank"
                     >
-                      Menschen.Buchen.Fotografen
+                      Growing Brands Bruchsal
                     </a>
                   </div>
                   <button className="cursor-pointer py-2 pr-[11px] pl-2.5 bg-[transparent] w-[89px] rounded-md box-border flex flex-row items-center justify-center z-[1] border-[1px] border-solid border-navy-labeling-415471-framer-app-2002x1208-default-mine-shaft">
